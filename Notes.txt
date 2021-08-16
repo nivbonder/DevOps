@@ -1,0 +1,6 @@
+osboxes.org
+
+Start Up:
+	- open ubuntu on the vm
+	- with mobaXterm start an ssh session with the vm (get ip address from the remote host - ubuntu machine)
+	
